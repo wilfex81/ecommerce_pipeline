@@ -223,3 +223,9 @@ __marimo__/
 *.csv   
 
 
+# Metabase runtime
+metabase/
+metabase/metabase.db
+metabase/*.log
+metabase/data/
+metabase/tmp/
